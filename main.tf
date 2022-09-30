@@ -1,7 +1,5 @@
 provider "aws" {
   region     = "ap-south-1"
-  access_key = "AKIATYYHID2HHNAGLNM7"
-  secret_key = "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"
 }
 
 module "dyna" {
